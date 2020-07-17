@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nada-apod/static/css/main.a5781c35.chunk.css",
-    "main.js": "/nada-apod/static/js/main.81984f0a.chunk.js",
-    "main.js.map": "/nada-apod/static/js/main.81984f0a.chunk.js.map",
+    "main.js": "/nada-apod/static/js/main.66e64fd8.chunk.js",
+    "main.js.map": "/nada-apod/static/js/main.66e64fd8.chunk.js.map",
     "runtime-main.js": "/nada-apod/static/js/runtime-main.3def57cc.js",
     "runtime-main.js.map": "/nada-apod/static/js/runtime-main.3def57cc.js.map",
     "static/js/2.6e877178.chunk.js": "/nada-apod/static/js/2.6e877178.chunk.js",
     "static/js/2.6e877178.chunk.js.map": "/nada-apod/static/js/2.6e877178.chunk.js.map",
     "index.html": "/nada-apod/index.html",
-    "precache-manifest.ee79c9fdd52f467b84a2ab82ce9ab498.js": "/nada-apod/precache-manifest.ee79c9fdd52f467b84a2ab82ce9ab498.js",
+    "precache-manifest.67261f83c0ee68d386bcd5684554adaa.js": "/nada-apod/precache-manifest.67261f83c0ee68d386bcd5684554adaa.js",
     "service-worker.js": "/nada-apod/service-worker.js",
     "static/css/main.a5781c35.chunk.css.map": "/nada-apod/static/css/main.a5781c35.chunk.css.map",
     "static/js/2.6e877178.chunk.js.LICENSE.txt": "/nada-apod/static/js/2.6e877178.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3def57cc.js",
     "static/js/2.6e877178.chunk.js",
     "static/css/main.a5781c35.chunk.css",
-    "static/js/main.81984f0a.chunk.js"
+    "static/js/main.66e64fd8.chunk.js"
   ]
 }

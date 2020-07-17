@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nada-apod/precache-manifest.ee79c9fdd52f467b84a2ab82ce9ab498.js"
+  "/nada-apod/precache-manifest.67261f83c0ee68d386bcd5684554adaa.js"
 );
 
 self.addEventListener('message', (event) => {
