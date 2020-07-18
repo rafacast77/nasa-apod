@@ -15,4 +15,7 @@ For all the space lovers out there this is a react app which shows the astronomy
 
 
 
-![Colors](src/images/nasa-apod_color_palette.png?raw=true "Color Palette")
+
+
+![Colors](src/img/nada-apod_color_palette.jpg?raw=true "Color Palette")
+
